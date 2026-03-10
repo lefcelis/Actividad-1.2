@@ -67,6 +67,21 @@ ProyectoStack
 * **Main.java:** contiene el menú y la lógica del simulador de texto.
 * **Stack.java:** implementa la estructura de datos pila y sus operaciones.
 
----
+
+## 4. Capturas de pantalla de la ejecución
+### Menú principal del editor de texto
+![img_3.png](img_3.png)
+
+### Escribiendo texto en el editor
+![img_4.png](img_4.png)
+
+### Deshaciendo la última acción
+![img_5.png](img_5.png)
+
+### Rehaciendo la acción deshecha
+![img_6.png](img_6.png)
+
+
+
 
 
