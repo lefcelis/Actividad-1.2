@@ -81,7 +81,8 @@ ProyectoStack
 ### Rehaciendo la acción deshecha
 ![img_6.png](img_6.png)
 
-
+## 5. Conclusión
+Este proyecto ha permitido comprender y aplicar la estructura de datos **pila (stack)** en un contexto práctico, simulando las funciones de **Deshacer (Undo)** y **Rehacer (Redo)** en un editor de texto. A través de la implementación de dos pilas, se ha logrado gestionar eficazmente las acciones del usuario, permitiendo una experiencia interactiva y funcional. Este ejercicio ha reforzado el conocimiento sobre cómo las pilas pueden ser utilizadas para manejar estados y acciones en aplicaciones reales.
 
 
 
