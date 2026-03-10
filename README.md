@@ -1,9 +1,7 @@
 ## ACTIVIDAD 1.2
 ## Simulador de Pilas (Stack) en Java
 
-
-
----
+**Estudiante:** Leyniker Ferley Celis
 
 ## 1. Objetivo del proyecto
 
@@ -23,7 +21,7 @@ El programa utiliza **dos pilas**:
 * **Pila principal:** almacena las líneas de texto escritas.
 * **Pila secundaria:** almacena las acciones deshechas para permitir rehacerlas.
 
----
+
 
 ## 2. Instrucciones de ejecución
 
@@ -52,7 +50,7 @@ Run 'Main.main()'
 
 5. Seleccionar la opción deseada ingresando el número correspondiente.
 
----
+
 
 ## 3. Estructura del proyecto
 
